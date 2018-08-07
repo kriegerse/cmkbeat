@@ -2,7 +2,7 @@ package main
 
 import (
         "os"
-        "github.com/jeremyweader/cmkbeat/cmd"
+        "github.com/kriegerse/cmkbeat/cmd"
 )
 
 func main() {

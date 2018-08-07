@@ -1,5 +1,5 @@
 BEAT_NAME=cmkbeat
-BEATDIR=github.com/jeremyweader/cmkbeat
+BEATDIR=github.com/kriegerse/cmkbeat
 ES_BEATS?=./vendor/github.com/elastic/beats
 GOPACKAGES=$(shell glide novendor)
 PREFIX?=.
